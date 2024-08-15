@@ -1,0 +1,9 @@
+﻿Now, let's create unit tests to ensure the API behaves correctly.
+
+Create a Unit Test Project:
+
+Add a new xUnit Test Project to the solution.
+
+Install-Package Microsoft.EntityFrameworkCore.InMemory
+Install-Package Moq
+Install-Package Microsoft.AspNetCore.TestHost

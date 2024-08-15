@@ -1,0 +1,27 @@
+﻿StaffManagementAPI/                # Root of the ASP.NET Core Web API project
+│
+├── Controllers/                    # API controllers
+│   └── StaffsController.cs
+│
+├── Models/                         # Data models
+│   └── Staff.cs
+│   └── StaffContext.cs
+│
+├── Migrations/                     # EF Core Migrations
+│   └── [Migration Files]
+│
+├── Properties/                     # Project properties
+│   └── launchSettings.json
+│
+├── appsettings.json                # Application configuration settings
+├── appsettings.Development.json    # Application configuration settings for Development environment
+│
+├── Program.cs                      # Entry point for the application
+├── Startup.cs                      # Application startup class (if using ASP.NET Core 5 or earlier)
+│
+├── StaffManagementAPI.Tests/       # Unit test project
+│   ├── StaffsControllerTests.cs    # Unit tests for the StaffsController
+│   ├── StaffManagementAPI.Tests.csproj  # Unit test project file
+│   └── ...                         # Other unit test files
+│
+└── StaffManagementAPI.csproj       # Main project file

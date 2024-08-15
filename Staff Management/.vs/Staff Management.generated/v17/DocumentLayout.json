@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6235CC7-0401-421E-A0C9-0A970F0E0C44}|Staff Management.csproj|c:\\users\\rog\\desktop\\cshap\\staff management\\staff management\\migrations\\20240812051820_inicialcreare.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6235CC7-0401-421E-A0C9-0A970F0E0C44}|Staff Management.csproj|solutionrelative:migrations\\20240812051820_inicialcreare.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6235CC7-0401-421E-A0C9-0A970F0E0C44}|Staff Management.csproj|c:\\users\\rog\\desktop\\cshap\\staff management\\staff management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6235CC7-0401-421E-A0C9-0A970F0E0C44}|Staff Management.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6235CC7-0401-421E-A0C9-0A970F0E0C44}|Staff Management.csproj|c:\\users\\rog\\desktop\\cshap\\staff management\\staff management\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6235CC7-0401-421E-A0C9-0A970F0E0C44}|Staff Management.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6235CC7-0401-421E-A0C9-0A970F0E0C44}|Staff Management.csproj|c:\\users\\rog\\desktop\\cshap\\staff management\\staff management\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6235CC7-0401-421E-A0C9-0A970F0E0C44}|Staff Management.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240812051820_InicialCreare.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\Migrations\\20240812051820_InicialCreare.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240812051820_InicialCreare.Designer.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\Migrations\\20240812051820_InicialCreare.Designer.cs",
+              "RelativeToolTip": "Migrations\\20240812051820_InicialCreare.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:44:14.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:44:01.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:43:57.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:43:56.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

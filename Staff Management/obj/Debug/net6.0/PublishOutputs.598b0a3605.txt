@@ -1,0 +1,11 @@
+C:\Users\ROG\source\repos\Staff Management\Staff Management\obj\Debug\net6.0\PubTmp\Out\Staff Management.exe
+C:\Users\ROG\source\repos\Staff Management\Staff Management\obj\Debug\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\ROG\source\repos\Staff Management\Staff Management\obj\Debug\net6.0\PubTmp\Out\appsettings.json
+C:\Users\ROG\source\repos\Staff Management\Staff Management\obj\Debug\net6.0\PubTmp\Out\Staff Management.dll
+C:\Users\ROG\source\repos\Staff Management\Staff Management\obj\Debug\net6.0\PubTmp\Out\Staff Management.deps.json
+C:\Users\ROG\source\repos\Staff Management\Staff Management\obj\Debug\net6.0\PubTmp\Out\Staff Management.runtimeconfig.json
+C:\Users\ROG\source\repos\Staff Management\Staff Management\obj\Debug\net6.0\PubTmp\Out\Staff Management.pdb
+C:\Users\ROG\source\repos\Staff Management\Staff Management\obj\Debug\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\ROG\source\repos\Staff Management\Staff Management\obj\Debug\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ROG\source\repos\Staff Management\Staff Management\obj\Debug\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ROG\source\repos\Staff Management\Staff Management\obj\Debug\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

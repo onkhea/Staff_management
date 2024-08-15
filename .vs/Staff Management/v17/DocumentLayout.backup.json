@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214FDE8B-B972-463E-8D72-B1C8AD06E538}|Staff Management\\Staff Management.csproj|c:\\users\\rog\\desktop\\cshap\\staff management\\staff management\\noted\\unit tests.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{214FDE8B-B972-463E-8D72-B1C8AD06E538}|Staff Management\\Staff Management.csproj|solutionrelative:staff management\\noted\\unit tests.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214FDE8B-B972-463E-8D72-B1C8AD06E538}|Staff Management\\Staff Management.csproj|c:\\users\\rog\\desktop\\cshap\\staff management\\staff management\\noted\\stucture.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{214FDE8B-B972-463E-8D72-B1C8AD06E538}|Staff Management\\Staff Management.csproj|solutionrelative:staff management\\noted\\stucture.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214FDE8B-B972-463E-8D72-B1C8AD06E538}|Staff Management\\Staff Management.csproj|c:\\users\\rog\\desktop\\cshap\\staff management\\staff management\\noted\\installpackege.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{214FDE8B-B972-463E-8D72-B1C8AD06E538}|Staff Management\\Staff Management.csproj|solutionrelative:staff management\\noted\\installpackege.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C29B0F8-5FE8-4160-94B6-B2924CA5D5F8}|StaffManagement.Tests\\StaffManagement.Tests.csproj|c:\\users\\rog\\desktop\\cshap\\staff management\\staffmanagement.tests\\staffscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C29B0F8-5FE8-4160-94B6-B2924CA5D5F8}|StaffManagement.Tests\\StaffManagement.Tests.csproj|solutionrelative:staffmanagement.tests\\staffscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214FDE8B-B972-463E-8D72-B1C8AD06E538}|Staff Management\\Staff Management.csproj|c:\\users\\rog\\desktop\\cshap\\staff management\\staff management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214FDE8B-B972-463E-8D72-B1C8AD06E538}|Staff Management\\Staff Management.csproj|solutionrelative:staff management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214FDE8B-B972-463E-8D72-B1C8AD06E538}|Staff Management\\Staff Management.csproj|c:\\users\\rog\\desktop\\cshap\\staff management\\staff management\\controllers\\staffscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214FDE8B-B972-463E-8D72-B1C8AD06E538}|Staff Management\\Staff Management.csproj|solutionrelative:staff management\\controllers\\staffscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214FDE8B-B972-463E-8D72-B1C8AD06E538}|Staff Management\\Staff Management.csproj|c:\\users\\rog\\desktop\\cshap\\staff management\\staff management\\migrations\\staffcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214FDE8B-B972-463E-8D72-B1C8AD06E538}|Staff Management\\Staff Management.csproj|solutionrelative:staff management\\migrations\\staffcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214FDE8B-B972-463E-8D72-B1C8AD06E538}|Staff Management\\Staff Management.csproj|c:\\users\\rog\\desktop\\cshap\\staff management\\staff management\\migrations\\20240812065728_incialcreate01.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214FDE8B-B972-463E-8D72-B1C8AD06E538}|Staff Management\\Staff Management.csproj|solutionrelative:staff management\\migrations\\20240812065728_incialcreate01.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214FDE8B-B972-463E-8D72-B1C8AD06E538}|Staff Management\\Staff Management.csproj|c:\\users\\rog\\desktop\\cshap\\staff management\\staff management\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214FDE8B-B972-463E-8D72-B1C8AD06E538}|Staff Management\\Staff Management.csproj|solutionrelative:staff management\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214FDE8B-B972-463E-8D72-B1C8AD06E538}|Staff Management\\Staff Management.csproj|c:\\users\\rog\\desktop\\cshap\\staff management\\staff management\\migrations\\20240812051820_inicialcreare.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214FDE8B-B972-463E-8D72-B1C8AD06E538}|Staff Management\\Staff Management.csproj|solutionrelative:staff management\\migrations\\20240812051820_inicialcreare.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214FDE8B-B972-463E-8D72-B1C8AD06E538}|Staff Management\\Staff Management.csproj|c:\\users\\rog\\desktop\\cshap\\staff management\\staff management\\data\\staffcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214FDE8B-B972-463E-8D72-B1C8AD06E538}|Staff Management\\Staff Management.csproj|solutionrelative:staff management\\data\\staffcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C29B0F8-5FE8-4160-94B6-B2924CA5D5F8}|StaffManagement.Tests\\StaffManagement.Tests.csproj|c:\\users\\rog\\desktop\\cshap\\staff management\\staffmanagement.tests\\unittests\\staffmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C29B0F8-5FE8-4160-94B6-B2924CA5D5F8}|StaffManagement.Tests\\StaffManagement.Tests.csproj|solutionrelative:staffmanagement.tests\\unittests\\staffmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214FDE8B-B972-463E-8D72-B1C8AD06E538}|Staff Management\\Staff Management.csproj|c:\\users\\rog\\desktop\\cshap\\staff management\\staff management\\staffmanagementapi.tests\\staffscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214FDE8B-B972-463E-8D72-B1C8AD06E538}|Staff Management\\Staff Management.csproj|solutionrelative:staff management\\staffmanagementapi.tests\\staffscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214FDE8B-B972-463E-8D72-B1C8AD06E538}|Staff Management\\Staff Management.csproj|c:\\users\\rog\\desktop\\cshap\\staff management\\staff management\\controllers\\mywrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214FDE8B-B972-463E-8D72-B1C8AD06E538}|Staff Management\\Staff Management.csproj|solutionrelative:staff management\\controllers\\mywrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C29B0F8-5FE8-4160-94B6-B2924CA5D5F8}|StaffManagement.Tests\\StaffManagement.Tests.csproj|c:\\users\\rog\\desktop\\cshap\\staff management\\staffmanagement.tests\\integrationtests\\staffcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C29B0F8-5FE8-4160-94B6-B2924CA5D5F8}|StaffManagement.Tests\\StaffManagement.Tests.csproj|solutionrelative:staffmanagement.tests\\integrationtests\\staffcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C29B0F8-5FE8-4160-94B6-B2924CA5D5F8}|StaffManagement.Tests\\StaffManagement.Tests.csproj|c:\\users\\rog\\desktop\\cshap\\staff management\\staffmanagement.tests\\staffmanagement.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C29B0F8-5FE8-4160-94B6-B2924CA5D5F8}|StaffManagement.Tests\\StaffManagement.Tests.csproj|solutionrelative:staffmanagement.tests\\staffmanagement.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C29B0F8-5FE8-4160-94B6-B2924CA5D5F8}|StaffManagement.Tests\\StaffManagement.Tests.csproj|c:\\users\\rog\\desktop\\cshap\\staff management\\staffmanagement.tests\\endtoendtests\\staffmanagementendtoendtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C29B0F8-5FE8-4160-94B6-B2924CA5D5F8}|StaffManagement.Tests\\StaffManagement.Tests.csproj|solutionrelative:staffmanagement.tests\\endtoendtests\\staffmanagementendtoendtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214FDE8B-B972-463E-8D72-B1C8AD06E538}|Staff Management\\Staff Management.csproj|c:\\users\\rog\\desktop\\cshap\\staff management\\staff management\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{214FDE8B-B972-463E-8D72-B1C8AD06E538}|Staff Management\\Staff Management.csproj|solutionrelative:staff management\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAJcTAAAAAAAAAAAWwKETAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-15T04:34:19.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StaffsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\StaffManagement.Tests\\StaffsControllerTests.cs",
+              "RelativeDocumentMoniker": "StaffManagement.Tests\\StaffsControllerTests.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\StaffManagement.Tests\\StaffsControllerTests.cs",
+              "RelativeToolTip": "StaffManagement.Tests\\StaffsControllerTests.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:20:05.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stucture.txt",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\Noted\\Stucture.txt",
+              "RelativeDocumentMoniker": "Staff Management\\Noted\\Stucture.txt",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\Noted\\Stucture.txt",
+              "RelativeToolTip": "Staff Management\\Noted\\Stucture.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-14T08:34:59.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Unit Tests.txt",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\Noted\\Unit Tests.txt",
+              "RelativeDocumentMoniker": "Staff Management\\Noted\\Unit Tests.txt",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\Noted\\Unit Tests.txt",
+              "RelativeToolTip": "Staff Management\\Noted\\Unit Tests.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-13T07:04:42.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "installPackege.txt",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\Noted\\installPackege.txt",
+              "RelativeDocumentMoniker": "Staff Management\\Noted\\installPackege.txt",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\Noted\\installPackege.txt",
+              "RelativeToolTip": "Staff Management\\Noted\\installPackege.txt",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-13T07:04:41.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\Program.cs",
+              "RelativeDocumentMoniker": "Staff Management\\Program.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\Program.cs",
+              "RelativeToolTip": "Staff Management\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:45:59.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "Staff Management\\Models\\Staff.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\Models\\Staff.cs",
+              "RelativeToolTip": "Staff Management\\Models\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:36:02.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StaffsController.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\Controllers\\StaffsController.cs",
+              "RelativeDocumentMoniker": "Staff Management\\Controllers\\StaffsController.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\Controllers\\StaffsController.cs",
+              "RelativeToolTip": "Staff Management\\Controllers\\StaffsController.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAvwLkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:44:55.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240812051820_InicialCreare.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\Migrations\\20240812051820_InicialCreare.Designer.cs",
+              "RelativeDocumentMoniker": "Staff Management\\Migrations\\20240812051820_InicialCreare.Designer.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\Migrations\\20240812051820_InicialCreare.Designer.cs",
+              "RelativeToolTip": "Staff Management\\Migrations\\20240812051820_InicialCreare.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:53:16.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240812065728_IncialCreate01.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\Migrations\\20240812065728_IncialCreate01.Designer.cs",
+              "RelativeDocumentMoniker": "Staff Management\\Migrations\\20240812065728_IncialCreate01.Designer.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\Migrations\\20240812065728_IncialCreate01.Designer.cs",
+              "RelativeToolTip": "Staff Management\\Migrations\\20240812065728_IncialCreate01.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:53:46.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StaffContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\Migrations\\StaffContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Staff Management\\Migrations\\StaffContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\Migrations\\StaffContextModelSnapshot.cs",
+              "RelativeToolTip": "Staff Management\\Migrations\\StaffContextModelSnapshot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAtwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:53:59.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MyWrite.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\Controllers\\MyWrite.cs",
+              "RelativeDocumentMoniker": "Staff Management\\Controllers\\MyWrite.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\Controllers\\MyWrite.cs",
+              "RelativeToolTip": "Staff Management\\Controllers\\MyWrite.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:44:41.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StaffControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\StaffManagement.Tests\\IntegrationTests\\StaffControllerTests.cs",
+              "RelativeDocumentMoniker": "StaffManagement.Tests\\IntegrationTests\\StaffControllerTests.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\StaffManagement.Tests\\IntegrationTests\\StaffControllerTests.cs",
+              "RelativeToolTip": "StaffManagement.Tests\\IntegrationTests\\StaffControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:18:19.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StaffModelTests.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\StaffManagement.Tests\\UnitTests\\StaffModelTests.cs",
+              "RelativeDocumentMoniker": "StaffManagement.Tests\\UnitTests\\StaffModelTests.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\StaffManagement.Tests\\UnitTests\\StaffModelTests.cs",
+              "RelativeToolTip": "StaffManagement.Tests\\UnitTests\\StaffModelTests.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowBUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:18:00.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StaffContext.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\Data\\StaffContext.cs",
+              "RelativeDocumentMoniker": "Staff Management\\Data\\StaffContext.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\Data\\StaffContext.cs",
+              "RelativeToolTip": "Staff Management\\Data\\StaffContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:44:08.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StaffsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\StaffManagementAPI.Tests\\StaffsControllerTests.cs",
+              "RelativeDocumentMoniker": "Staff Management\\StaffManagementAPI.Tests\\StaffsControllerTests.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\StaffManagementAPI.Tests\\StaffsControllerTests.cs",
+              "RelativeToolTip": "Staff Management\\StaffManagementAPI.Tests\\StaffsControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:44:24.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StaffManagement.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\StaffManagement.Tests\\StaffManagement.Tests.csproj",
+              "RelativeDocumentMoniker": "StaffManagement.Tests\\StaffManagement.Tests.csproj",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\StaffManagement.Tests\\StaffManagement.Tests.csproj",
+              "RelativeToolTip": "StaffManagement.Tests\\StaffManagement.Tests.csproj",
+              "ViewState": "AgIAAAcAAAAAAAAAAABBwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-12T08:46:17.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StaffManagementEndToEndTests.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\StaffManagement.Tests\\EndToEndTests\\StaffManagementEndToEndTests.cs",
+              "RelativeDocumentMoniker": "StaffManagement.Tests\\EndToEndTests\\StaffManagementEndToEndTests.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\StaffManagement.Tests\\EndToEndTests\\StaffManagementEndToEndTests.cs",
+              "RelativeToolTip": "StaffManagement.Tests\\EndToEndTests\\StaffManagementEndToEndTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:18:34.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Staff Management\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Cshap\\Staff Management\\Staff Management\\appsettings.Development.json",
+              "RelativeToolTip": "Staff Management\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T10:45:40.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

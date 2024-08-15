@@ -1,0 +1,30 @@
+﻿@model IEnumerable<StaffManagementMVC.Models.Staff>
+
+<h2>Staff List</h2>
+<a href="/Staff/Create">Add New Staff</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Staff ID</th>
+            <th>Full Name</th>
+            <th>Birthday</th>
+            <th>Gender</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var staff in Model)
+        {
+            <tr>
+                <td>@staff.StaffId</td>
+                <td>@staff.FullName</td>
+                <td>@staff.Birthday.ToString("yyyy-MM-dd")</td>
+                <td>@(staff.Gender == 1 ? "Male" : "Female")</td>
+                <td>
+                    <a href="/Staff/Edit/@staff.StaffId">Edit</a> |
+                    <a href="/Staff/Delete/@staff.StaffId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,21 @@
+﻿
+
+
+Install-Package Microsoft.EntityFrameworkCore
+Install-Package Microsoft.EntityFrameworkCore.SqlServer
+Install-Package Microsoft.EntityFrameworkCore.Tools
+Install-Package Microsoft.AspNetCore.Mvc.NewtonsoftJson
+Install-Package Moq
+Install-Package Microsoft.AspNetCore.TestHost
+
+Install-Package Microsoft.EntityFrameworkCore.InMemory
+Install-Package Moq
+Install-Package Microsoft.AspNetCore.TestHost
+
+dotnet add package Microsoft.EntityFrameworkCore.InMemory --version 6.0.0
+
+dotnet ef migrations add InitialCreate02
+dotnet ef database update
+
+dotnet add package Microsoft.AspNet.WebApi.Client --version 6.0.0
+dotnet add package Newtonsoft.Json --version 6.0.0

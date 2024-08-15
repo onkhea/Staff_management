@@ -1,0 +1,3 @@
+please create staff management using ASP.net web Api , staff ID string(8),fullname string(100),birday:Date,Gender:int(with1:Male,2female) and Advanced search from :search for staffs by criterria staff ID Gender Birday (from date to Date)?
+
+please detail code above and the app should have unit tests for its code?

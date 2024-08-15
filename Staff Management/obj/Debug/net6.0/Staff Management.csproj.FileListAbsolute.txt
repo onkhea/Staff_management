@@ -1,0 +1,87 @@
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Staff Management.exe
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Staff Management.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\appsettings.json
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\libman.json
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\ClosedXML.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\DinkToPdf.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\ExcelNumberFormat.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Irony.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Microsoft.AspNetCore.TestHost.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Moq.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\XLParser.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\obj\Debug\net6.0\Staff Management.csproj.AssemblyReference.cache
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\obj\Debug\net6.0\Staff Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\obj\Debug\net6.0\Staff Management.AssemblyInfoInputs.cache
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\obj\Debug\net6.0\Staff Management.AssemblyInfo.cs
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\obj\Debug\net6.0\Staff Management.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\obj\Debug\net6.0\Staff Management.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\obj\Debug\net6.0\Staff Management.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\obj\Debug\net6.0\Staff Management.sourcelink.json
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\obj\Debug\net6.0\staticwebassets\msbuild.Staff Management.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\obj\Debug\net6.0\staticwebassets\msbuild.build.Staff Management.props
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Staff Management.props
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Staff Management.props
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\obj\Debug\net6.0\scopedcss\bundle\Staff Management.styles.css
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\obj\Debug\net6.0\Staff Ma.0510E147.Up2Date
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\obj\Debug\net6.0\Staff Management.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\obj\Debug\net6.0\refint\Staff Management.dll
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\obj\Debug\net6.0\Staff Management.pdb
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Staff Management.deps.json
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Staff Management.runtimeconfig.json
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\bin\Debug\net6.0\Staff Management.pdb
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\obj\Debug\net6.0\Staff Management.genruntimeconfig.cache
+C:\Users\ROG\Desktop\Cshap\Staff Management\Staff Management\obj\Debug\net6.0\ref\Staff Management.dll
